@@ -34,4 +34,4 @@ I am a Web and Mobile App Developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I  and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrew-pomerleau/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-andrew-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andrew-pomerleau/)
