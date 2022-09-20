@@ -67,5 +67,6 @@ I am a Web and Mobile App Developer <img src="https://media.giphy.com/media/WUlp
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Just Testing](https://dev.to/cafecodr/just-testing-1k5o)
 <!-- BLOG-POST-LIST:END -->
 
