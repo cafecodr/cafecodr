@@ -58,5 +58,4 @@ I am a Web and Mobile App Developer <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cafecodr&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cafecodr)](https://git.io/streak-stats)
