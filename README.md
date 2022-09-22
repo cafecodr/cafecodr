@@ -60,9 +60,9 @@ I am a Web and Mobile App Developer <img src="https://media.giphy.com/media/WUlp
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cafecodr)](https://git.io/streak-stats)
 
-[![CafeCodr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafecodr)](https://github.com/anuraghazra/github-readme-stats)
-
 ![CafeCodr's GitHub stats](https://github-readme-stats.vercel.app/api?username=cafecodr&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cafecodr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
